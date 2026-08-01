@@ -20,7 +20,7 @@ button{border:none;background:#ffd54f;color:#222;padding:16px 26px;border-radius
 <p><b>Current Progress</b><br><span style="font-size:1.4rem">43 / 100</span></p>
 <p>Hi! 👋<br>My goal is to take <b>100 photos with 100 different people</b> during Sziget Festival.</p>
 <p>No catch. No promotion.<br>Just a fun memory we'll share.</p>
-<button onclick="join()">YES, I'M IN! ❤️</button>
+<button onclick="join()">YES, I'M IN!! ❤️</button>
 <div id="msg">
 <h2>Awesome! 🎉</h2>
 <p>Come say hi if you spot me and let's take a photo together! 📸</p>
